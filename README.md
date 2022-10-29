@@ -1,0 +1,2 @@
+# airdropschecked
+All testnet
